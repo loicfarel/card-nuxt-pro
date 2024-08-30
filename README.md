@@ -1,3 +1,4 @@
+![Capture d’écran du 2024-08-30 01-10-33](https://github.com/user-attachments/assets/c5e93c8b-6572-4de8-a02f-5c3ddfc819c5)
 # template-vue-3
 
 This template should help get you started developing with Vue 3 in Vite.
